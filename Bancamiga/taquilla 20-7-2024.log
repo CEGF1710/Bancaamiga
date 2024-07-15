@@ -1,0 +1,254 @@
+2024-07-20
+--------------------------------------------------------
+Cedula del cliente: 15293827.
+Nombre del cliente: Sonic Erizo.
+Estado de prioridad: NO PRIORITARIO.
+Hora de inicio de transacción: 9:46:00 (hora militar).
+Hora de finalización: 9:49:00 (hora militar)
+Tipo de solicitud: Depósito (código de operación: D).
+--------------------------------------------------------
+Cedula del cliente: 15293827.
+Nombre del cliente: Sonic Erizo.
+Estado de prioridad: NO PRIORITARIO.
+Hora de inicio de transacción: 9:42:00 (hora militar).
+Hora de finalización: 9:46:00 (hora militar)
+Tipo de solicitud: Retiro (código de operación: R).
+--------------------------------------------------------
+Cedula del cliente: 15293827.
+Nombre del cliente: Sonic Erizo.
+Estado de prioridad: NO PRIORITARIO.
+Hora de inicio de transacción: 9:40:30 (hora militar).
+Hora de finalización: 9:42:00 (hora militar)
+Tipo de solicitud: Consulta de movimientos (código de operación: C).
+--------------------------------------------------------
+Cedula del cliente: 273820111.
+Nombre del cliente: Trevor Phillips.
+Estado de prioridad: NO PRIORITARIO.
+Hora de inicio de transacción: 9:36:30 (hora militar).
+Hora de finalización: 9:40:30 (hora militar)
+Tipo de solicitud: Retiro (código de operación: R).
+--------------------------------------------------------
+Cedula del cliente: 273820111.
+Nombre del cliente: Trevor Phillips.
+Estado de prioridad: NO PRIORITARIO.
+Hora de inicio de transacción: 9:35:00 (hora militar).
+Hora de finalización: 9:36:30 (hora militar)
+Tipo de solicitud: Consulta de movimientos (código de operación: C).
+--------------------------------------------------------
+Cedula del cliente: 273820111.
+Nombre del cliente: Trevor Phillips.
+Estado de prioridad: NO PRIORITARIO.
+Hora de inicio de transacción: 9:33:00 (hora militar).
+Hora de finalización: 9:35:00 (hora militar)
+Tipo de solicitud: Pago de servicios (código de operación: P).
+--------------------------------------------------------
+Cedula del cliente: 029438112.
+Nombre del cliente: Phoenix Wrigth.
+Estado de prioridad: PRIORITARIO.
+Razon de prioridad: Discapacitado/Problemas prioritarios
+Hora de inicio de transacción: 9:30:00 (hora militar).
+Hora de finalización: 9:33:00 (hora militar)
+Tipo de solicitud: Depósito (código de operación: D).
+--------------------------------------------------------
+Cedula del cliente: 029438112.
+Nombre del cliente: Phoenix Wrigth.
+Estado de prioridad: PRIORITARIO.
+Razon de prioridad: Discapacitado/Problemas prioritarios
+Hora de inicio de transacción: 9:28:30 (hora militar).
+Hora de finalización: 9:30:00 (hora militar)
+Tipo de solicitud: Consulta de movimientos (código de operación: C).
+--------------------------------------------------------
+Cedula del cliente: 19034992.
+Nombre del cliente: Gojo Saturo.
+Estado de prioridad: NO PRIORITARIO.
+Hora de inicio de transacción: 9:25:30 (hora militar).
+Hora de finalización: 9:28:30 (hora militar)
+Tipo de solicitud: Depósito (código de operación: D).
+--------------------------------------------------------
+Cedula del cliente: 19034992.
+Nombre del cliente: Gojo Saturo.
+Estado de prioridad: NO PRIORITARIO.
+Hora de inicio de transacción: 9:20:30 (hora militar).
+Hora de finalización: 9:25:30 (hora militar)
+Tipo de solicitud: Actualización de libretas (código de operación: A).
+--------------------------------------------------------
+Cedula del cliente: 84732199.
+Nombre del cliente: Luke Skywalker.
+Estado de prioridad: PRIORITARIO.
+Razon de prioridad: Tercera edad
+Hora de inicio de transacción: 9:18:30 (hora militar).
+Hora de finalización: 9:20:30 (hora militar)
+Tipo de solicitud: Pago de servicios (código de operación: P).
+--------------------------------------------------------
+Cedula del cliente: 84732199.
+Nombre del cliente: Luke Skywalker.
+Estado de prioridad: PRIORITARIO.
+Razon de prioridad: Tercera edad
+Hora de inicio de transacción: 9:15:30 (hora militar).
+Hora de finalización: 9:18:30 (hora militar)
+Tipo de solicitud: Depósito (código de operación: D).
+--------------------------------------------------------
+Cedula del cliente: 16382199.
+Nombre del cliente: Billy Kid.
+Estado de prioridad: NO PRIORITARIO.
+Hora de inicio de transacción: 9:10:30 (hora militar).
+Hora de finalización: 9:15:30 (hora militar)
+Tipo de solicitud: Actualización de libretas (código de operación: A).
+--------------------------------------------------------
+Cedula del cliente: 16382199.
+Nombre del cliente: Billy Kid.
+Estado de prioridad: NO PRIORITARIO.
+Hora de inicio de transacción: 9:07:30 (hora militar).
+Hora de finalización: 9:10:30 (hora militar)
+Tipo de solicitud: Depósito (código de operación: D).
+--------------------------------------------------------
+Cedula del cliente: 16382199.
+Nombre del cliente: Billy Kid.
+Estado de prioridad: NO PRIORITARIO.
+Hora de inicio de transacción: 9:05:30 (hora militar).
+Hora de finalización: 9:07:30 (hora militar)
+Tipo de solicitud: Pago de servicios (código de operación: P).
+--------------------------------------------------------
+Cedula del cliente: 3847271.
+Nombre del cliente: Clark Kent.
+Estado de prioridad: NO PRIORITARIO.
+Hora de inicio de transacción: 9:03:30 (hora militar).
+Hora de finalización: 9:05:30 (hora militar)
+Tipo de solicitud: Pago de servicios (código de operación: P).
+--------------------------------------------------------
+Cedula del cliente: 27361555.
+Nombre del cliente: E Gadd.
+Estado de prioridad: PRIORITARIO.
+Razon de prioridad: Tercera edad
+Hora de inicio de transacción: 9:00:30 (hora militar).
+Hora de finalización: 9:03:30 (hora militar)
+Tipo de solicitud: Depósito (código de operación: D).
+--------------------------------------------------------
+Cedula del cliente: 27361555.
+Nombre del cliente: E Gadd.
+Estado de prioridad: PRIORITARIO.
+Razon de prioridad: Tercera edad
+Hora de inicio de transacción: 8:58:30 (hora militar).
+Hora de finalización: 9:00:30 (hora militar)
+Tipo de solicitud: Pago de servicios (código de operación: P).
+--------------------------------------------------------
+Cedula del cliente: 27361555.
+Nombre del cliente: E Gadd.
+Estado de prioridad: PRIORITARIO.
+Razon de prioridad: Tercera edad
+Hora de inicio de transacción: 8:54:30 (hora militar).
+Hora de finalización: 8:58:30 (hora militar)
+Tipo de solicitud: Retiro (código de operación: R).
+--------------------------------------------------------
+Cedula del cliente: 9382839.
+Nombre del cliente: Bruno Diaz.
+Estado de prioridad: NO PRIORITARIO.
+Hora de inicio de transacción: 8:52:30 (hora militar).
+Hora de finalización: 8:54:30 (hora militar)
+Tipo de solicitud: Pago de servicios (código de operación: P).
+--------------------------------------------------------
+Cedula del cliente: 3289427.
+Nombre del cliente: Leonardo Messi.
+Estado de prioridad: NO PRIORITARIO.
+Hora de inicio de transacción: 8:50:30 (hora militar).
+Hora de finalización: 8:52:30 (hora militar)
+Tipo de solicitud: Pago de servicios (código de operación: P).
+--------------------------------------------------------
+Cedula del cliente: 21948712938.
+Nombre del cliente: Cristiano Ronaldo.
+Estado de prioridad: NO PRIORITARIO.
+Hora de inicio de transacción: 8:46:30 (hora militar).
+Hora de finalización: 8:50:30 (hora militar)
+Tipo de solicitud: Retiro (código de operación: R).
+--------------------------------------------------------
+Cedula del cliente: 21948712938.
+Nombre del cliente: Cristiano Ronaldo.
+Estado de prioridad: NO PRIORITARIO.
+Hora de inicio de transacción: 8:41:30 (hora militar).
+Hora de finalización: 8:46:30 (hora militar)
+Tipo de solicitud: Actualización de libretas (código de operación: A).
+--------------------------------------------------------
+Cedula del cliente: 64564.
+Nombre del cliente: Solomeo Paredes Rojas.
+Estado de prioridad: PRIORITARIO.
+Razon de prioridad: Discapacitado/Problemas prioritarios
+Hora de inicio de transacción: 8:39:30 (hora militar).
+Hora de finalización: 8:41:30 (hora militar)
+Tipo de solicitud: Pago de servicios (código de operación: P).
+--------------------------------------------------------
+Cedula del cliente: 64564.
+Nombre del cliente: Solomeo Paredes Rojas.
+Estado de prioridad: PRIORITARIO.
+Razon de prioridad: Discapacitado/Problemas prioritarios
+Hora de inicio de transacción: 8:35:30 (hora militar).
+Hora de finalización: 8:39:30 (hora militar)
+Tipo de solicitud: Retiro (código de operación: R).
+--------------------------------------------------------
+Cedula del cliente: 64564.
+Nombre del cliente: Solomeo Paredes Rojas.
+Estado de prioridad: PRIORITARIO.
+Razon de prioridad: Discapacitado/Problemas prioritarios
+Hora de inicio de transacción: 8:30:30 (hora militar).
+Hora de finalización: 8:35:30 (hora militar)
+Tipo de solicitud: Actualización de libretas (código de operación: A).
+--------------------------------------------------------
+Cedula del cliente: 64564.
+Nombre del cliente: Solomeo Paredes Rojas.
+Estado de prioridad: PRIORITARIO.
+Razon de prioridad: Discapacitado/Problemas prioritarios
+Hora de inicio de transacción: 8:25:30 (hora militar).
+Hora de finalización: 8:30:30 (hora militar)
+Tipo de solicitud: Actualización de libretas (código de operación: A).
+--------------------------------------------------------
+Cedula del cliente: 235236.
+Nombre del cliente: Leroy Gonzalez Betancourt.
+Estado de prioridad: NO PRIORITARIO.
+Hora de inicio de transacción: 8:21:30 (hora militar).
+Hora de finalización: 8:25:30 (hora militar)
+Tipo de solicitud: Retiro (código de operación: R).
+--------------------------------------------------------
+Cedula del cliente: 235236.
+Nombre del cliente: Leroy Gonzalez Betancourt.
+Estado de prioridad: NO PRIORITARIO.
+Hora de inicio de transacción: 8:16:30 (hora militar).
+Hora de finalización: 8:21:30 (hora militar)
+Tipo de solicitud: Actualización de libretas (código de operación: A).
+--------------------------------------------------------
+Cedula del cliente: 235236.
+Nombre del cliente: Leroy Gonzalez Betancourt.
+Estado de prioridad: NO PRIORITARIO.
+Hora de inicio de transacción: 8:14:30 (hora militar).
+Hora de finalización: 8:16:30 (hora militar)
+Tipo de solicitud: Pago de servicios (código de operación: P).
+--------------------------------------------------------
+Cedula del cliente: 2424235.
+Nombre del cliente: Este Deberia Quedar PENDIENTE.
+Estado de prioridad: PRIORITARIO.
+Razon de prioridad: Tercera edad
+Hora de inicio de transacción: 8:13:00 (hora militar).
+Hora de finalización: 8:14:30 (hora militar)
+Tipo de solicitud: Consulta de movimientos (código de operación: C).
+--------------------------------------------------------
+Cedula del cliente: 2424235.
+Nombre del cliente: Este Deberia Quedar PENDIENTE.
+Estado de prioridad: PRIORITARIO.
+Razon de prioridad: Tercera edad
+Hora de inicio de transacción: 8:09:00 (hora militar).
+Hora de finalización: 8:13:00 (hora militar)
+Tipo de solicitud: Retiro (código de operación: R).
+--------------------------------------------------------
+Cedula del cliente: 2424235.
+Nombre del cliente: Este Deberia Quedar PENDIENTE.
+Estado de prioridad: PRIORITARIO.
+Razon de prioridad: Tercera edad
+Hora de inicio de transacción: 8:05:00 (hora militar).
+Hora de finalización: 8:09:00 (hora militar)
+Tipo de solicitud: Retiro (código de operación: R).
+--------------------------------------------------------
+Cedula del cliente: 2424235.
+Nombre del cliente: Este Deberia Quedar PENDIENTE.
+Estado de prioridad: PRIORITARIO.
+Razon de prioridad: Tercera edad
+Hora de inicio de transacción: 8:00:00 (hora militar).
+Hora de finalización: 8:05:00 (hora militar)
+Tipo de solicitud: Actualización de libretas (código de operación: A).
